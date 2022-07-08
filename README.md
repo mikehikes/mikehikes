@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hey there, world 👋
 
-<!--
-**mikehikes/mikehikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 How to reach me: m@mikeh.dev
+### 🌐 Personal page: [mikeh.dev](https://mikeh.dev)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What's on this repo:
+   - Previous personal projects
+   - Gists and example code
+   - Common libraries utilized in various projects.
+
+### Other Projects and Interests
+
+#### 🗳️ [FindYour.Vote](https://findyour.vote) 🗳️
+
+A web-based service for political candidates and organizations to provide information to voters on the procedures and locations of early and absentee voting locations.
+
+#### 🏦 [Call.Report](https://call.report) 🧾
+
+An open-source resource of info and utilities to acquire, ETL, and interpret 🇺🇸 bank regulatory data.
+   
