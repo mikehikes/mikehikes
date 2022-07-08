@@ -17,7 +17,7 @@ A web-based service for political candidates and organizations to provide inform
 
 #### 🏦 [Call.Report](https://call.report) 🧾
 
-An open-source resource of info and utilities to acquire, ETL, and interpret 🇺🇸 bank regulatory data. Check out the GitHub repo at [https://github.com/call-report](github.com/call-report)
+An open-source resource of info and utilities to acquire, ETL, and interpret 🇺🇸 bank regulatory data. Check out the GitHub repo at [github.com/call-report](https://github.com/call-report)
    
 #### Why mikehikes?
 - It rhymes
