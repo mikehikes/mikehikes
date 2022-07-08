@@ -19,3 +19,7 @@ A web-based service for political candidates and organizations to provide inform
 
 An open-source resource of info and utilities to acquire, ETL, and interpret 🇺🇸 bank regulatory data.
    
+#### Why mikehikes?
+- It rhymes
+- It's an enjoyable activity
+- Short, memorable, and unambiguous spelling
