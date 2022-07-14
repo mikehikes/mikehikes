@@ -18,8 +18,14 @@ A web-based service for political candidates and organizations to provide inform
 #### 🏦 [Call.Report](https://call.report) 🧾
 
 An open-source resource of info and utilities to acquire, ETL, and interpret 🇺🇸 bank regulatory data. Check out the GitHub repo at [github.com/call-report](https://github.com/call-report)
+
+#### `whoami`
+- 📍 Atlanta, GA
+- 🏳️‍🌈 👬
+- Primary transportation device: 🚲
+- Primary leisure activity: 🥾🏔 or 🚲 
    
-#### Why mikehikes?
+#### "Why mikehikes"?
 - It rhymes
 - It's an enjoyable activity
 - Short, memorable, and unambiguous spelling
