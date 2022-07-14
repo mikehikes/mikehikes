@@ -25,7 +25,7 @@ An open-source resource of info and utilities to acquire, ETL, and interpret �
 - Primary transportation device: 🚲
 - Primary leisure activity: 🥾🏔 or 🚲 
    
-#### "Why mikehikes"?
+#### Why "mikehikes"?
 - It rhymes
 - It's an enjoyable activity
 - Short, memorable, and unambiguous spelling
