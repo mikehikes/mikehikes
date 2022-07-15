@@ -4,7 +4,7 @@
 ### 🌐 Personal page: [mikeh.dev](https://mikeh.dev)
 
 
-### What's on this repo:
+### What's in this repo:
    - Previous personal projects
    - Gists and example code
    - Common libraries utilized in various projects.
