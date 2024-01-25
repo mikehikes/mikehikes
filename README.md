@@ -1,11 +1,11 @@
 # Hey there, world 👋
 
-## 📫 How to reach me: m@mikeh.dev
-## 🌐 Personal page: [mikeh.dev](https://mikeh.dev)
+- 📫 How to reach me: m@mikeh.dev
+- 🌐 Personal page: [mikeh.dev](https://mikeh.dev)
 
 ## Current Activities
 
-### theATL.social: Independent Social Media for Atlanta, GA 🇺🇸
+### theATL.social: Independent Social Media for Atlanta, GA 🍑
 - Admin and sysop for [theatl.social](https://theatl.social), a Mastodon instance
 - Organization repo for forked Mastodon software and other dev activities: [github.com/theatl-social](https://github.com/theatl-social)
 
